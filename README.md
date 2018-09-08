@@ -1,4 +1,2 @@
 # svg
 SVG examples
-
-TODO
